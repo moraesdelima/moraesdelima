@@ -1,45 +1,32 @@
 ## Hi, I'm Luiz Lima 👋
 
-**Principal Engineer & Engineering Manager** based in Rio de Janeiro, Brazil.
+**Principal Engineer & Engineering Manager** · Rio de Janeiro, Brazil
 
-I've spent the last 7+ years building financial platforms from scratch — starting with zero infrastructure and scaling to systems that process **220,000+ contracts/month** and serve millions of credit offers to Brazilian workers.
+I build financial platforms and the teams that sustain them. Over the last 7+ years I've taken a fintech from zero infrastructure to a system processing **220,000+ contracts/month** — architecting the platform, owning the cloud, and developing the engineering leaders who run it today.
 
-My work sits at the intersection of deep technical execution and engineering leadership: I architect distributed systems, own cloud infrastructure, and develop the technical leaders who run the teams.
+<br>
 
----
+### 🔧 Stack
 
-### 🔧 What I work with
+| | |
+|---|---|
+| **Languages** | Java · Spring Boot · Hibernate · Node.js · NestJS · Golang · TypeScript |
+| **Cloud** | AWS · Lambda · Serverless · Docker · GitHub Actions · GitFlow |
+| **Data** | PostgreSQL · DynamoDB · Redis · SQL Server · AWS SQS · JMS |
+| **Domain** | Banking as a Service · Payroll Credit · Regulated Financial Systems |
 
-**Languages & Frameworks**
-`Java` `Spring Boot` `Hibernate` `Node.js` `NestJS` `Golang` `TypeScript`
+<br>
 
-**Cloud & Infrastructure**
-`AWS` `Lambda` `Serverless` `Docker` `GitHub Actions` `GitFlow` `CI/CD`
+### 📌 Featured
 
-**Data & Messaging**
-`PostgreSQL` `DynamoDB` `Redis` `SQL Server` `AWS SQS` `JMS`
+**[loan-simulator-go](https://github.com/moraesdelima/loan-simulator-go)** — Brazilian consumer credit simulator in Go. Calculates PMT, IOF (Decreto 6.306/2007) and CET via Newton-Raphson IRR. Demo of a production engine running as AWS Lambda Serverless.
 
-**Domain**
-`Banking as a Service` `Payroll Credit` `FGTS` `Digital Signatures` `Regulated Financial Systems`
-
----
-
-### 📌 Featured project
-
-#### [loan-simulator-go](https://github.com/moraesdelima/loan-simulator-go)
-A Brazilian consumer credit simulator written in Go — calculates PMT, IOF (per Brazilian regulation), and CET (Custo Efetivo Total). Demo of a production engine deployed as AWS Lambda Serverless, processing 220k+ contracts/month.
-
----
+<br>
 
 ### 🏦 Background
 
-- **25+ years** in software engineering, the last 7 in fintech
-- Built and scaled an engineering org from **1 squad to 5 squads**
-- Developed all current technical leads from within the team
-- Previously delivered projects for Bradesco, Banco do Brasil, Banco do Nordeste, American Express, Crefisa and others
+25+ years in software engineering · last 7 in fintech · 1 squad → 5 squads · all current tech leads developed internally · previously: Bradesco · Banco do Brasil · Banco do Nordeste · American Express · Crefisa
 
----
+<br>
 
-### 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luiz--lima--1a133144-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/luiz-lima-1a133144)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Lima-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-lima-1a133144)
