@@ -2,7 +2,7 @@
 
 **Principal Engineer & Engineering Manager** · Rio de Janeiro, Brazil
 
-I build financial platforms and the teams that sustain them. Over the last 7+ years I've taken a fintech from zero infrastructure to a system processing **220,000+ contracts/month** — architecting the platform, owning the cloud, and developing the engineering leaders who run it today.
+I build financial platforms and the teams that sustain them. Over the last 7+ years I've taken a fintech from zero infrastructure to a system that processes **220,000+ contracts/month** (BaaS) and delivers **5 million credit offers/month** to Brazilian workers (Private Payroll Credit) — architecting the platform, owning the cloud, and developing the engineering leaders who run it today.
 
 ### 🔧 Stack
 
