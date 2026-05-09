@@ -43,7 +43,6 @@ A Brazilian consumer credit simulator written in Go — calculates PMT, IOF (per
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luiz--lima--1a133144-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/luiz-lima-1a133144)
-[![Email](https://img.shields.io/badge/Email-moraesdelima%40live.com-D14836?style=flat&logo=gmail)](mailto:moraesdelima@live.com)
 
 ---
 
